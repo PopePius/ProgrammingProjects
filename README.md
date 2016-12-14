@@ -1,4 +1,4 @@
-100 Hundred Programming Projects, courtesy of /g/.
+100 Programming Projects, courtesy of /g/.
 
 I will work through these systematically. 
 
