@@ -3,7 +3,7 @@
 I will work through these systematically. 
 
 <ol>
-<li>Name Generator
+<li><s>Name Generator</s>
 <li>Higher or Lower / Heads or tails
 <li>Temperature Converter
 <li>Calculate your Age in Seconds
